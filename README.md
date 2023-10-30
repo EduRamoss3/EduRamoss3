@@ -12,6 +12,4 @@ Olá, sou desenvolvedor de software apaixonado estudante de Análise e Desenvolv
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EduRamoss3a&icon=6&color=6)](https://visitcount.itsvg.in)
-## 🌐Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ramos-da-silva-9a7835245/)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
